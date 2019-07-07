@@ -39,3 +39,12 @@ body
    
     font-size: 40px;
 }
+
+#footer
+{
+    padding: 0.5;
+    background: grey;
+    text-align: center;
+    color: white;   
+    font-size: 20px;
+}
